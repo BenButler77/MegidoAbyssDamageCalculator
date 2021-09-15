@@ -1,0 +1,2190 @@
+		set {item.type::1000} to 1
+		set {item.name::1000} to "&6Barehanded"
+		set {item.phys::1000} to 20
+		set {item.weig::1000} to 10
+		set {item.rang::1000} to 1
+		set {item.clas::1000} to "Light"
+		set {item.sscl::1000} to "D"
+		set {item.dscl::1000} to "D"
+		set {item.lvup::1000} to 0
+		set {id.Barehanded} to 1000
+
+		set {item.type::1001} to 1
+		set {item.name::1001} to "&6Dagger"
+		set {item.phys::1001} to 35
+		set {item.weig::1001} to 16
+		set {item.rang::1001} to 2
+		set {item.clas::1001} to "Very Light"
+		set {item.crit::1001} to 2.5
+		set {item.dexr::1001} to 5
+		set {item.dscl::1001} to "D"
+		set {item.lore::1001} to "A small dagger used by hunters. Very effective at performing critical hits."
+		set {item.item::1001} to wooden sword
+		set {id.Dagger} to 1001
+
+		set {item.type::1002} to 1
+		set {item.name::1002} to "&6Shortsword"
+		set {item.phys::1002} to 50
+		set {item.weig::1002} to 22
+		set {item.rang::1002} to 3
+		set {item.clas::1002} to "Light"
+		set {item.strr::1002} to 3
+		set {item.sscl::1002} to "E"
+		set {item.dexr::1002} to 3
+		set {item.dscl::1002} to "E"
+		set {item.lore::1002} to "A common sword that is light and easy to wield."
+		set {item.item::1002} to stone sword
+		set {id.Shortsword} to 1002
+
+		set {item.type::1003} to 1
+		set {item.name::1003} to "&6Bastard Sword"
+		set {item.phys::1003} to 60
+		set {item.weig::1003} to 28
+		set {item.rang::1003} to 3
+		set {item.clas::1003} to "Medium"
+		set {item.strr::1003} to 2
+		set {item.sscl::1003} to "E"
+		set {item.dexr::1003} to 4
+		set {item.dscl::1003} to "D"
+		set {item.lore::1003} to "A medium sword commonly used by fencers."
+		set {item.item::1003} to gold sword
+		set {id.Bastard Sword} to 1003
+
+		set {item.type::1004} to 1
+		set {item.name::1004} to "&6Claymore"
+		set {item.phys::1004} to 72
+		set {item.weig::1004} to 34
+		set {item.rang::1004} to 3
+		set {item.clas::1004} to "Heavy"
+		set {item.strr::1004} to 4
+		set {item.sscl::1004} to "D"
+		set {item.dexr::1004} to 2
+		set {item.dscl::1004} to "E"
+		set {item.lore::1004} to "An iron sword that is standard issue among knights of Leere."
+		set {item.item::1004} to iron sword
+		set {id.Claymore} to 1004
+
+		set {item.type::1005} to 1
+		set {item.name::1005} to "&6Greatsword"
+		set {item.phys::1005} to 85
+		set {item.weig::1005} to 42
+		set {item.rang::1005} to 3
+		set {item.clas::1005} to "Very Heavy"
+		set {item.strr::1005} to 5
+		set {item.sscl::1005} to "D"
+		set {item.lore::1005} to "An unwieldly sword that takes above average strength to wield effectively."
+		set {item.item::1005} to diamond sword
+		set {id.Greatsword} to 1005
+
+		set {item.type::1006} to 1
+		set {item.name::1006} to "&6Broken Sword"
+		set {item.phys::1006} to 26
+		set {item.weig::1006} to 17
+		set {item.rang::1006} to 2
+		set {item.clas::1006} to "Medium"
+		set {item.strr::1006} to 2
+		set {item.sscl::1006} to "E"
+		set {item.blee::1006} to 2
+		set {item.lore::1006} to "A sword that's been broken in half. In its current state, it's nearly impossible to tell what sort of blade it was."
+		set {item.item::1006} to stone sword
+		set {id.Broken Sword} to 1006
+
+		set {item.type::1007} to 1
+		set {item.name::1007} to "&6Wooden Club"
+		set {item.phys::1007} to 60
+		set {item.weig::1007} to 36
+		set {item.rang::1007} to 3
+		set {item.clas::1007} to "Medium"
+		set {item.strr::1007} to 5
+		set {item.sscl::1007} to "C"
+		set {item.stmd::1007} to 2
+		set {item.lore::1007} to "A wooden club fashioned out of branches. Clubs deal bonus stamina damage against guarding foes."
+		set {item.item::1007} to stick
+		set {id.Wooden Club} to 1007
+
+		set {item.type::1008} to 1
+		set {item.name::1008} to "&6Poisoned Knife"
+		set {item.phys::1008} to 28
+		set {item.weig::1008} to 14
+		set {item.rang::1008} to 2
+		set {item.clas::1008} to "Very Light"
+		set {item.crit::1008} to 2.5
+		set {item.dexr::1008} to 6
+		set {item.dscl::1008} to "D"
+		set {item.pois::1008} to 7
+		set {item.lore::1008} to "A knife that has been poisoned with toxins from the mushrooms growing throughout the Great Hollow."
+		set {item.item::1008} to wooden sword
+		set {id.Poisoned Knife} to 1008
+
+		set {item.type::1009} to 1
+		set {item.name::1009} to "&6Large Club"
+		set {item.phys::1009} to 108
+		set {item.weig::1009} to 48
+		set {item.rang::1009} to 3
+		set {item.clas::1009} to "Very Heavy"
+		set {item.strr::1009} to 10
+		set {item.sscl::1009} to "E"
+		set {item.stmd::1009} to 2
+		set {item.lore::1009} to "A very large club carved out of a tree trunk. Takes great strength to wield."
+		set {item.item::1009} to stick
+		set {id.Large Club} to 1009
+
+		set {item.type::1010} to 1
+		set {item.name::1010} to "&6Katana"
+		set {item.phys::1010} to 52
+		set {item.weig::1010} to 26
+		set {item.rang::1010} to 3
+		set {item.clas::1010} to "Light"
+		set {item.dexr::1010} to 8
+		set {item.dscl::1010} to "C"
+		set {item.lore::1010} to "A katana forged out of the wood in the Great Hollow. A quick weapon that scales well with dexterity."
+		set {item.item::1010} to wooden sword
+		set {id.Katana} to 1010
+
+		set {item.type::1011} to 1
+		set {item.name::1011} to "&6Wooden Spear"
+		set {item.phys::1011} to 48
+		set {item.weig::1011} to 30
+		set {item.rang::1011} to 4
+		set {item.clas::1011} to "Medium"
+		set {item.strr::1011} to 5
+		set {item.sscl::1011} to "D"
+		set {item.dexr::1011} to 5
+		set {item.dscl::1011} to "D"
+		set {item.stmd::1011} to -1
+		set {item.lore::1011} to "A spear forged out of the wood in the Great Hollow. A weapon that makes up for its lack of damage with its increased range."
+		set {item.item::1011} to wooden shovel
+		set {id.Wooden Spear} to 1011
+
+		set {item.type::1012} to 1
+		set {item.name::1012} to "&6Stump Axe"
+		set {item.phys::1012} to 140
+		set {item.weig::1012} to 68
+		set {item.rang::1012} to 2
+		set {item.clas::1012} to "Very Heavy"
+		set {item.strr::1012} to 12
+		set {item.sscl::1012} to "E"
+		set {item.lore::1012} to "An axe forged out of a gnarled stump in the Great Hollow. Terribly heavy to wield, but has the potential to be incredibly destructive."
+		set {item.item::1012} to wooden axe
+		set {id.Stump Axe} to 1012
+
+		set {item.type::1013} to 1
+		set {item.name::1013} to "&6Splintering Knife"
+		set {item.phys::1013} to 28
+		set {item.weig::1013} to 18
+		set {item.rang::1013} to 2
+		set {item.clas::1013} to "Very Light"
+		set {item.crit::1013} to 2
+		set {item.dexr::1013} to 12
+		set {item.dscl::1013} to "C"
+		set {item.blee::1013} to 7
+		set {item.lore::1013} to "A poorly made knife forged with various twigs found in the Great Hollow. The splinters in its blade can cause bleeding in foes, causing immense damage once inflicted."
+		set {item.item::1013} to wooden sword
+		set {id.Splintering Knife} to 1013
+
+		set {item.type::1014} to 1
+		set {item.name::1014} to "&6False God Axe"
+		set {item.phys::1014} to 160
+		set {item.weig::1014} to 68
+		set {item.rang::1014} to 3
+		set {item.clas::1014} to "Very Heavy"
+		set {item.strr::1014} to 20
+		set {item.sscl::1014} to "C"
+		set {item.lvup::1014} to 0.1
+		set {item.matr::1014} to 1
+		set {item.lore::1014} to "An axe once wielded by the idol worshipped by the Pygmies of the Great Hollow."
+		set {item.skil::1014} to "Skill: Spin Sweep - Perform a series of attacks in a circle. (%{skil.mana::1}% MP)"
+		set {item.item::1014} to glowing wooden axe
+		set {id.False God Axe} to 1014
+
+		set {item.type::1015} to 1
+		set {item.name::1015} to "&6Reaper Scythe"
+		set {item.phys::1015} to 45
+		set {item.eart::1015} to 15
+		set {item.weig::1015} to 30
+		set {item.rang::1015} to 2
+		set {item.clas::1015} to "Medium"
+		set {item.strr::1015} to 8
+		set {item.sscl::1015} to "B"
+		set {item.dexr::1015} to 4
+		set {item.dscl::1015} to "D"
+		set {item.lore::1015} to "A short scythe that reaps souls."
+		set {item.item::1015} to iron hoe
+		set {id.Reaper Scythe} to 1015
+
+		set {item.type::1016} to 1
+		set {item.name::1016} to "&6Stone Sword"
+		set {item.phys::1016} to 56
+		set {item.weig::1016} to 32
+		set {item.rang::1016} to 3
+		set {item.clas::1016} to "Light"
+		set {item.strr::1016} to 4
+		set {item.sscl::1016} to "E"
+		set {item.dexr::1016} to 6
+		set {item.dscl::1016} to "C"
+		set {item.lore::1016} to "An ancient sword wielded by corpses animated by the Necromancers."
+		set {item.item::1016} to stone sword
+		set {id.Stone Sword} to 1016
+
+		set {item.type::1017} to 1
+		set {item.name::1017} to "&6Necromancer's Scythe"
+		set {item.phys::1017} to 35
+		set {item.fire::1017} to 35
+		set {item.weig::1017} to 48
+		set {item.rang::1017} to 2
+		set {item.clas::1017} to "Heavy"
+		set {item.strr::1017} to 5
+		set {item.sscl::1017} to "E"
+		set {item.intr::1017} to 10
+		set {item.iscl::1017} to "C"
+		set {item.lore::1017} to "A terribly heavy scythe infused with the power of fire."
+		set {item.item::1017} to stone hoe
+		set {id.Necromancer's Scythe} to 1017
+
+		set {item.type::1018} to 1
+		set {item.name::1018} to "&6Hollow Slayer"
+		set {item.phys::1018} to 60
+		set {item.eart::1018} to 18
+		set {item.weig::1018} to 38
+		set {item.rang::1018} to 3
+		set {item.clas::1018} to "Medium"
+		set {item.strr::1018} to 8
+		set {item.sscl::1018} to "D"
+		set {item.dexr::1018} to 16
+		set {item.dscl::1018} to "C"
+		set {item.blee::1018} to 12
+		set {item.lvup::1018} to 0.1
+		set {item.matr::1018} to 1
+		set {item.lore::1018} to "A jagged blade wielded by the Hollow King of Alendale that causes bleeding in foes."
+		set {item.skil::1018} to "Skill: Backstep - Quickly step back and receive temporary invulnerability."
+		set {item.item::1018} to iron sword
+		set {id.Hollow Slayer} to 1018
+
+		set {item.type::1019} to 1
+		set {item.name::1019} to "&6Stone Mace"
+		set {item.phys::1019} to 40
+		set {item.eart::1019} to 15
+		set {item.weig::1019} to 36
+		set {item.rang::1019} to 3
+		set {item.clas::1019} to "Medium"
+		set {item.strr::1019} to 10
+		set {item.sscl::1019} to "B"
+		set {item.lore::1019} to "A crude mace wielded by the golems that watch over the Darkwater Lake."
+		set {item.item::1019} to stone shovel
+		set {id.Stone Mace} to 1019
+
+		set {item.type::1020} to 1
+		set {item.name::1020} to "&6Numbing Axe"
+		set {item.phys::1020} to 50
+		set {item.weig::1020} to 40
+		set {item.rang::1020} to 3
+		set {item.clas::1020} to "Heavy"
+		set {item.strr::1020} to 8
+		set {item.sscl::1020} to "C"
+		set {item.slow::1020} to 16
+		set {item.lore::1020} to "A stone axe that has been coated in a gel that causes a mild form of paralysis."
+		set {item.item::1020} to stone axe
+		set {id.Numbing Axe} to 1020
+
+		set {item.type::1021} to 1
+		set {item.name::1021} to "&6Mildew Shortsword"
+		set {item.phys::1021} to 44
+		set {item.weig::1021} to 28
+		set {item.rang::1021} to 3
+		set {item.clas::1021} to "Light"
+		set {item.dexr::1021} to 8
+		set {item.dscl::1021} to "C"
+		set {item.slow::1021} to 9
+		set {item.lore::1021} to "A stone sword that has accumulated poisonous mildew on its blade over many years."
+		set {item.item::1021} to stone sword
+		set {id.Mildew Shortsword} to 1021
+
+		set {item.type::1022} to 1
+		set {item.name::1022} to "&6Ice Hammer"
+		set {item.phys::1022} to 90
+		set {item.wate::1022} to 45
+		set {item.weig::1022} to 55
+		set {item.rang::1022} to 3
+		set {item.clas::1022} to "Very Heavy"
+		set {item.strr::1022} to 16
+		set {item.sscl::1022} to "C"
+		set {item.intr::1022} to 8
+		set {item.iscl::1022} to "D"
+		set {item.lvup::1022} to 0.1
+		set {item.matr::1022} to 1
+		set {item.lore::1022} to "An enchanted great hammer once wielded by the guardian of Darkwater Sanctum. Terribly powerful, and can shatter some ice walls."
+		set {item.item::1022} to glowing iron pickaxe
+		set {id.Ice Hammer} to 1022
+
+		set {item.type::1023} to 1
+		set {item.name::1023} to "&6King's Greatsword"
+		set {item.phys::1023} to 150
+		set {item.weig::1023} to 160
+		set {item.rang::1023} to 3
+		set {item.clas::1023} to "Very Heavy"
+		set {item.strr::1023} to 60
+		set {item.sscl::1023} to "S"
+		set {item.lvup::1023} to 0.1
+		set {item.matr::1023} to 1
+		set {item.lore::1023} to "An absurdly heavy yet undeniably destructive weapon said to have been wielded by an ancient king of Alendale."
+		set {item.item::1023} to iron sword
+		set {id.King's Greatsword} to 1023
+
+		set {item.type::1024} to 1
+		set {item.name::1024} to "&6Ent Branch"
+		set {item.phys::1024} to 140
+		set {item.weig::1024} to 54
+		set {item.rang::1024} to 3
+		set {item.clas::1024} to "Very Heavy"
+		set {item.strr::1024} to 12
+		set {item.lore::1024} to "Not a weapon, strictly speaking; rather, a destructive branch that was once a limb on an Ent."
+		set {item.item::1024} to stick
+		set {id.Ent Branch} to 1024
+
+		set {item.type::1025} to 1
+		set {item.name::1025} to "&6Flowering Ent Branch"
+		set {item.phys::1025} to 126
+		set {item.weig::1025} to 54
+		set {item.rang::1025} to 3
+		set {item.clas::1025} to "Very Heavy"
+		set {item.strr::1025} to 12
+		set {item.lore::1025} to "Not a weapon, strictly speaking; rather, a destructive branch that was once a limb on an Ent."
+		set {item.item::1025} to stick
+		set {id.Flowering Ent Branch} to 1025
+
+		set {item.type::1026} to 1
+		set {item.name::1026} to "&6Stone Spear"
+		set {item.phys::1026} to 50
+		set {item.weig::1026} to 36
+		set {item.rang::1026} to 4
+		set {item.clas::1026} to "Medium"
+		set {item.strr::1026} to 5
+		set {item.sscl::1026} to "E"
+		set {item.dexr::1026} to 9
+		set {item.dscl::1026} to "C"
+		set {item.stmd::1026} to -1
+		set {item.lore::1026} to "A crude spear wielded by an ancient warrior who was animated by the Necromancers."
+		set {item.item::1026} to stone shovel
+		set {id.Stone Spear} to 1026
+
+		set {item.type::1027} to 1
+		set {item.name::1027} to "&6Guardian Arm"
+		set {item.phys::1027} to 92
+		set {item.weig::1027} to 66
+		set {item.rang::1027} to 3
+		set {item.clas::1027} to "Very Heavy"
+		set {item.strr::1027} to 16
+		set {item.sscl::1027} to "B"
+		set {item.stmd::1027} to 2
+		set {item.lore::1027} to "An arm of a golem that protected the Memorial Gardens that can be wielded as a club."
+		set {item.item::1027} to glowing stick
+		set {id.Guardian Arm} to 1027
+
+		set {item.type::1028} to 1
+		set {item.name::1028} to "&6Pike"
+		set {item.phys::1028} to 58
+		set {item.weig::1028} to 40
+		set {item.rang::1028} to 4
+		set {item.clas::1028} to "Heavy"
+		set {item.dexr::1028} to 12
+		set {item.dscl::1028} to "C"
+		set {item.stmd::1028} to -1
+		set {item.lore::1028} to "A pike once wielded by the gatekeepers of Alendale, depicted in the statues seen in the castle gardens."
+		set {item.item::1028} to iron shovel
+		set {id.Pike} to 1028
+
+		set {item.type::1029} to 1
+		set {item.name::1029} to "&6Tomahawk"
+		set {item.phys::1029} to 75
+		set {item.weig::1029} to 30
+		set {item.rang::1029} to 3
+		set {item.clas::1029} to "Light"
+		set {item.dexr::1029} to 14
+		set {item.dscl::1029} to "C"
+		set {item.lvup::1029} to 0.1
+		set {item.matr::1029} to 1
+		set {item.lore::1029} to "A light axe wielded by the former Bandit Lord."
+		set {item.skil::1029} to "Skill: Throw - Throw your weapon to deal ranged damage. (%{skil.mana::2}% MP)"
+		set {item.item::1029} to iron axe
+		set {id.Tomahawk} to 1029
+
+		set {item.type::1030} to 1
+		set {item.name::1030} to "&6Lumberjack Axe"
+		set {item.phys::1030} to 72
+		set {item.fire::1030} to 22
+		set {item.weig::1030} to 42
+		set {item.rang::1030} to 3
+		set {item.clas::1030} to "Heavy"
+		set {item.strr::1030} to 15
+		set {item.sscl::1030} to "D"
+		set {item.dexr::1030} to 5
+		set {item.lore::1030} to "An axe used by woodcutters that has been cleverly infused with fire to increase its efficiency."
+		set {item.item::1030} to stone axe
+		set {id.Lumberjack Axe} to 1030
+
+		set {item.type::1031} to 1
+		set {item.name::1031} to "&6Serrated Knife"
+		set {item.phys::1031} to 32
+		set {item.weig::1031} to 20
+		set {item.rang::1031} to 2
+		set {item.clas::1031} to "Very Light"
+		set {item.crit::1031} to 1.5
+		set {item.dexr::1031} to 10
+		set {item.dscl::1031} to "B"
+		set {item.blee::1031} to 4
+		set {item.lore::1031} to "A knife with a serrated blade used by hunters to cut meat."
+		set {item.item::1031} to wooden sword
+		set {id.Serrated Knife} to 1031
+
+		set {item.type::1032} to 1
+		set {item.name::1032} to "&6Hunter Spear"
+		set {item.phys::1032} to 40
+		set {item.weig::1032} to 46
+		set {item.rang::1032} to 5
+		set {item.clas::1032} to "Medium"
+		set {item.dexr::1032} to 18
+		set {item.dscl::1032} to "D"
+		set {item.stmd::1032} to -1
+		set {item.lore::1032} to "An incredibly long spear used by hunters to keep predators at a distance. Requires high dexterity to use effectively."
+		set {item.item::1032} to stone shovel
+		set {id.Hunter Spear} to 1032
+
+		set {item.type::1033} to 1
+		set {item.name::1033} to "&6Scimitar"
+		set {item.phys::1033} to 48
+		set {item.weig::1033} to 28
+		set {item.rang::1033} to 3
+		set {item.clas::1033} to "Light"
+		set {item.dexr::1033} to 10
+		set {item.dscl::1033} to "C"
+		set {item.blee::1033} to 8
+		set {item.parr::1033} to -1
+		set {item.lore::1033} to "A short sword with a curved blade that can cause mild bleeding. Can be used to parry with."
+		set {item.item::1033} to stone sword
+		set {id.Scimitar} to 1033
+
+		set {item.type::1034} to 1
+		set {item.name::1034} to "&6Pickaxe"
+		set {item.phys::1034} to 56
+		set {item.weig::1034} to 34
+		set {item.rang::1034} to 2
+		set {item.clas::1034} to "Very Heavy"
+		set {item.strr::1034} to 14
+		set {item.sscl::1034} to "S"
+		set {item.lore::1034} to "A pickaxe used by the miners from Dysmere. Not originally intended for use as a weapon, however its weight can still cause great destruction."
+		set {item.item::1034} to iron pickaxe
+		set {id.Pickaxe} to 1034
+
+		set {item.type::1035} to 1
+		set {item.name::1035} to "&6Bloodlust"
+		set {item.phys::1035} to 58
+		set {item.weig::1035} to 34
+		set {item.rang::1035} to 3
+		set {item.clas::1035} to "Light"
+		set {item.dexr::1035} to 20
+		set {item.dscl::1035} to "B"
+		set {item.lvup::1035} to 0.1
+		set {item.blee::1035} to 10
+		set {item.matr::1035} to 1
+		set {item.lore::1035} to "A cursed katana wielded by the guardian spirit of Dysmere."
+		set {item.skil::1035} to "Skill: Flurry - Attack with a series of rapid sweeps. (%{skil.mana::3}% MP)"
+		set {item.item::1035} to glowing wood sword
+		set {id.Bloodlust} to 1035
+
+		set {item.type::1036} to 1
+		set {item.name::1036} to "&6Sunlight Straight Sword"
+		set {item.phys::1036} to 60
+		set {item.fire::1036} to 20
+		set {item.weig::1036} to 26
+		set {item.rang::1036} to 3
+		set {item.clas::1036} to "Light"
+		set {item.dexr::1036} to 16
+		set {item.dscl::1036} to "C"
+		set {item.intr::1036} to 8
+		set {item.iscl::1036} to "D"
+		set {item.lvup::1036} to 0.1
+		set {item.matr::1036} to 1
+		set {item.lore::1036} to "A light weapon wielded by the Sunlight Warriors. Its quick attacks keep invaders at bay."
+		set {item.item::1036} to glowing gold sword
+		set {id.Sunlight Straight Sword} to 1036
+
+		set {item.type::1037} to 1
+		set {item.name::1037} to "&6Sunlight Greatsword"
+		set {item.phys::1037} to 86
+		set {item.fire::1037} to 30
+		set {item.weig::1037} to 34
+		set {item.rang::1037} to 3
+		set {item.clas::1037} to "Heavy"
+		set {item.strr::1037} to 16
+		set {item.dscl::1037} to "C"
+		set {item.intr::1037} to 8
+		set {item.iscl::1037} to "D"
+		set {item.lvup::1037} to 0.1
+		set {item.matr::1037} to 1
+		set {item.lore::1037} to "A powerful weapon wielded by the Sunlight Warriors. Its heavy attacks bash through the defenses of invaders."
+		set {item.item::1037} to glowing gold sword
+		set {id.Sunlight Greatsword} to 1037
+
+		set {item.type::1038} to 1
+		set {item.name::1038} to "&6Crimson Straight Sword"
+		set {item.phys::1038} to 38
+		set {item.weig::1038} to 32
+		set {item.rang::1038} to 3
+		set {item.clas::1038} to "Light"
+		set {item.dexr::1038} to 20
+		set {item.dscl::1038} to "B"
+		set {item.lvup::1038} to 0.1
+		set {item.blee::1038} to 8
+		set {item.matr::1038} to 1
+		set {item.lore::1038} to "A light weapon wielded by the Crimson Warriors. Its rending attacks tear apart its victims."
+		set {item.item::1038} to glowing wood sword
+		set {id.Crimson Straight Sword} to 1038
+
+		set {item.type::1039} to 1
+		set {item.name::1039} to "&6Crimson Greatsword"
+		set {item.phys::1039} to 62
+		set {item.weig::1039} to 40
+		set {item.rang::1039} to 3
+		set {item.clas::1039} to "Heavy"
+		set {item.strr::1039} to 20
+		set {item.sscl::1039} to "B"
+		set {item.lvup::1039} to 0.1
+		set {item.blee::1039} to 16
+		set {item.matr::1039} to 1
+		set {item.lore::1039} to "A powerful wielded by the Crimson Warriors. It bashes through shields and causes bleeding in its victims."
+		set {item.item::1039} to glowing wood sword
+		set {id.Crimson Greatsword} to 1039
+
+		set {item.type::1040} to 1
+		set {item.name::1040} to "&6Firebane"
+		set {item.phys::1040} to 40
+		set {item.fire::1040} to 35
+		set {item.weig::1040} to 42
+		set {item.rang::1040} to 3
+		set {item.clas::1040} to "Heavy"
+		set {item.strr::1040} to 10
+		set {item.sscl::1040} to "D"
+		set {item.intr::1040} to 10
+		set {item.iscl::1040} to "D"
+		set {item.lore::1040} to "A greatsword with a blade made out of molten lava, this weapon slices through the defenses of most living creatures."
+		set {item.item::1040} to glowing gold sword
+		set {id.Firebane} to 1040
+
+		set {item.type::1041} to 1
+		set {item.name::1041} to "&6Ashen Club"
+		set {item.phys::1041} to 92
+		set {item.weig::1041} to 46
+		set {item.rang::1041} to 3
+		set {item.clas::1041} to "Very Heavy"
+		set {item.strr::1041} to 16
+		set {item.sscl::1041} to "D"
+		set {item.stmd::1041} to 2
+		set {item.lore::1041} to "A club carved from a slab of obsidian."
+		set {item.item::1041} to glowing stick
+		set {id.Ashen Club} to 1041
+
+		set {item.type::1042} to 1
+		set {item.name::1042} to "&6Demon's Great Hammer"
+		set {item.phys::1042} to 245
+		set {item.weig::1042} to 64
+		set {item.rang::1042} to 3
+		set {item.clas::1042} to "Very Heavy"
+		set {item.strr::1042} to 30
+		set {item.sscl::1042} to "E"
+		set {item.lvup::1042} to 0.1
+		set {item.matr::1042} to 1
+		set {item.lore::1042} to "A misshapen slab of crystal that can be wielded like a hammer."
+		set {item.skil::1042} to "Skill: Flame Plunge - Use while performing a plunging attack to send out a flame shockwave. (%{skil.mana::5}% MP)"
+		set {item.item::1042} to glowing diamond axe
+		set {id.Demon's Great Hammer} to 1042
+
+		set {item.type::1043} to 1
+		set {item.name::1043} to "&6Demon's Scythe"
+		set {item.phys::1043} to 127
+		set {item.weig::1043} to 40
+		set {item.rang::1043} to 3
+		set {item.clas::1043} to "Heavy"
+		set {item.strr::1043} to 15
+		set {item.sscl::1043} to "E"
+		set {item.dexr::1043} to 15
+		set {item.dscl::1043} to "E"
+		set {item.lvup::1043} to 0.1
+		set {item.blee::1043} to 4
+		set {item.matr::1043} to 1
+		set {item.lore::1043} to "A jagged, unearthly scythe used by demons."
+		set {item.skil::1043} to "Skill: Blood Blessing - Coat the weapon in your own blood to increase bleed inflict for a short period. (%{skil.mana::6}% MP)"
+		set {item.item::1043} to glowing diamond hoe
+		set {id.Demon's Scythe} to 1043
+
+		set {item.type::1044} to 1
+		set {item.name::1044} to "&6Demon's Spear"
+		set {item.phys::1044} to 112
+		set {item.weig::1044} to 36
+		set {item.rang::1044} to 4
+		set {item.clas::1044} to "Medium"
+		set {item.dexr::1044} to 30
+		set {item.dscl::1044} to "E"
+		set {item.lvup::1044} to 0.1
+		set {item.matr::1044} to 1
+		set {item.lore::1044} to "A thin pole carved out of igneous rock with a pointed crystal welded onto the tip."
+		set {item.skil::1044} to "Skill: Charge - Charge forward with the spear in front of you until you run out of stamina. (%{skil.mana::4}% MP)"
+		set {item.item::1044} to glowing blaze rod
+		set {id.Demon's Spear} to 1044
+
+		set {item.type::1045} to 1
+		set {item.name::1045} to "&6Flaming Ent Branch"
+		set {item.phys::1045} to 70
+		set {item.fire::1045} to 70
+		set {item.weig::1045} to 54
+		set {item.rang::1045} to 3
+		set {item.clas::1045} to "Very Heavy"
+		set {item.strr::1045} to 12
+		set {item.lore::1045} to "Not a weapon, strictly speaking; rather, a destructive branch that was once a limb on an Ent."
+		set {item.item::1045} to stick
+		set {id.Flaming Ent Branch} to 1045
+
+		set {item.type::1046} to 1
+		set {item.name::1046} to "&6Hexing Staff"
+		set {item.phys::1046} to 32
+		set {item.weig::1046} to 32
+		set {item.rang::1046} to 3
+		set {item.clas::1046} to "Medium"
+		set {item.intr::1046} to 10
+		set {item.iscl::1046} to "A"
+		set {item.pois::1046} to 4
+		set {item.blee::1046} to 4
+		set {item.slow::1046} to 4
+		set {item.lore::1046} to "A staff that has been cursed by a debilitating incantation."
+		set {item.item::1046} to gold hoe
+		set {id.Hexing Staff} to 1046
+
+		set {item.type::1047} to 1
+		set {item.name::1047} to "&6Gremlin Dagger"
+		set {item.phys::1047} to 42
+		set {item.weig::1047} to 18
+		set {item.rang::1047} to 2
+		set {item.clas::1047} to "Very Light"
+		set {item.crit::1047} to 1.5
+		set {item.dexr::1047} to 10
+		set {item.dscl::1047} to "E"
+		set {item.pois::1047} to 8
+		set {item.lore::1047} to "A dagger that has been given a poisonous effect from the treacherous waters in the Pits."
+		set {item.item::1047} to wooden sword
+		set {id.Gremlin Dagger} to 1047
+
+		set {item.type::1048} to 1
+		set {item.name::1048} to "&6Flamberge"
+		set {item.phys::1048} to 58
+		set {item.weig::1048} to 38
+		set {item.rang::1048} to 3
+		set {item.clas::1048} to "Heavy"
+		set {item.strr::1048} to 8
+		set {item.sscl::1048} to "C"
+		set {item.dexr::1048} to 8
+		set {item.dscl::1048} to "C"
+		set {item.lore::1048} to "A greatsword with an undulating blade."
+		set {item.item::1048} to gold sword
+		set {id.Flamberge} to 1048
+
+		set {item.type::1049} to 1
+		set {item.name::1049} to "&6Rapier"
+		set {item.phys::1049} to 40
+		set {item.weig::1049} to 26
+		set {item.rang::1049} to 3
+		set {item.clas::1049} to "Light"
+		set {item.crit::1049} to 1.5
+		set {item.strr::1049} to 6
+		set {item.sscl::1049} to "D"
+		set {item.dexr::1049} to 6
+		set {item.dscl::1049} to "B"
+		set {item.lore::1049} to "A small sword with a pointed blade that is commonly used as a sidearm. Can be used to parry with."
+		set {item.item::1049} to stone sword
+		set {id.Rapier} to 1049
+
+		set {item.type::1050} to 1
+		set {item.name::1050} to "&6Longsword"
+		set {item.phys::1050} to 48
+		set {item.weig::1050} to 34
+		set {item.rang::1050} to 3
+		set {item.clas::1050} to "Medium"
+		set {item.strr::1050} to 7
+		set {item.sscl::1050} to "C"
+		set {item.dexr::1050} to 7
+		set {item.dscl::1050} to "C"
+		set {item.lore::1050} to "A sword that is easily wielded and useful in all manner of situations."
+		set {item.item::1050} to iron sword
+		set {id.Longsword} to 1050
+
+		set {item.type::1051} to 1
+		set {item.name::1051} to "&6Shovel"
+		set {item.phys::1051} to 46
+		set {item.weig::1051} to 56
+		set {item.rang::1051} to 3
+		set {item.clas::1051} to "Very Heavy"
+		set {item.dexr::1051} to 12
+		set {item.dscl::1051} to "S"
+		set {item.lore::1051} to "A shovel used by miners in Dysmere. Not originally intended for use as a weapon, but is heavy enough to cause damage."
+		set {item.item::1051} to iron shovel
+		set {id.Shovel} to 1051
+
+		set {item.type::1052} to 1
+		set {item.name::1052} to "&6Nail Bat"
+		set {item.phys::1052} to 68
+		set {item.weig::1052} to 34
+		set {item.rang::1052} to 3
+		set {item.clas::1052} to "Medium"
+		set {item.strr::1052} to 10
+		set {item.sscl::1052} to "E"
+		set {item.dexr::1052} to 6
+		set {item.dscl::1052} to "E"
+		set {item.blee::1052} to 12
+		set {item.lore::1052} to "A makeshift weapon created by embedding various nails and sharp objects into a piece of wood."
+		set {item.item::1052} to stick
+		set {id.Nail Bat} to 1052
+
+		set {item.type::1053} to 1
+		set {item.name::1053} to "&6Warpick"
+		set {item.phys::1053} to 46
+		set {item.eart::1053} to 12
+		set {item.weig::1053} to 42
+		set {item.rang::1053} to 2
+		set {item.clas::1053} to "Heavy"
+		set {item.strr::1053} to 14
+		set {item.sscl::1053} to "A"
+		set {item.lore::1053} to "A pickaxe that has been slightly modified to make it more easily wielded in combat."
+		set {item.item::1053} to stone pickaxe
+		set {id.Warpick} to 1053
+
+		set {item.type::1054} to 1
+		set {item.name::1054} to "&6Primordial Bone"
+		set {item.phys::1054} to 117
+		set {item.weig::1054} to 44
+		set {item.rang::1054} to 3
+		set {item.clas::1054} to "Heavy"
+		set {item.strr::1054} to 20
+		set {item.sscl::1054} to "D"
+		set {item.lvup::1054} to 0.1
+		set {item.slow::1054} to 14
+		set {item.matr::1054} to 1
+		set {item.stmd::1054} to 2
+		set {item.lore::1054} to "A fossil of an ancient creature that is heavy enough to be wielded as a club."
+		set {item.skil::1054} to "Skill: Shockwave - Create an expanding shockwave to damage and knock back enemies. (%{skil.mana::7}% MP)"
+		set {item.item::1054} to bone
+		set {id.Primordial Bone} to 1054
+
+		set {item.type::1055} to 1
+		set {item.name::1055} to "&6Cursed Greatsword"
+		set {item.phys::1055} to 144
+		set {item.weig::1055} to 55
+		set {item.rang::1055} to 3
+		set {item.clas::1055} to "Very Heavy"
+		set {item.strr::1055} to 20
+		set {item.sscl::1055} to "C"
+		set {item.dexr::1055} to 12
+		set {item.dscl::1055} to "D"
+		set {item.lvup::1055} to 0.1
+		set {item.matr::1055} to 1
+		set {item.lore::1055} to "A greatsword that has become infected with bloodrot gas."
+		set {item.skil::1055} to "Skill: Emit Gas - Temporarily emit bleed inflicting gas from the wielder. (%{skil.mana::8}% MP)"
+		set {item.item::1055} to glowing diamond sword
+		set {id.Cursed Greatsword} to 1055
+
+		set {item.type::1056} to 1
+		set {item.name::1056} to "&6Gladius"
+		set {item.phys::1056} to 54
+		set {item.weig::1056} to 26
+		set {item.rang::1056} to 3
+		set {item.clas::1056} to "Medium"
+		set {item.strr::1056} to 25
+		set {item.sscl::1056} to "B"
+		set {item.dexr::1056} to 25
+		set {item.dscl::1056} to "B"
+		set {item.lvup::1056} to 0.1
+		set {item.matr::1056} to 1
+		set {item.lore::1056} to "A difficult to wield yet terribly effective weapon commonly used by gladiators."
+		set {item.skil::1056} to "Skill: Shield Poke - Perform a normal attack while guarding. (5 MP)"
+		set {item.item::1056} to glowing gold sword
+		set {id.Gladius} to 1056
+
+		set {item.type::1057} to 1
+		set {item.name::1057} to "&6Willow Club"
+		set {item.phys::1057} to 45
+		set {item.wind::1057} to 15
+		set {item.weig::1057} to 36
+		set {item.rang::1057} to 3
+		set {item.clas::1057} to "Medium"
+		set {item.strr::1057} to 10
+		set {item.sscl::1057} to "C"
+		set {item.intr::1057} to 6
+		set {item.iscl::1057} to "E"
+		set {item.stmd::1057} to 2
+		set {item.lore::1057} to "A slightly enchanted club crafted from the willows of Illusory Forest."
+		set {item.item::1057} to stick
+		set {id.Willow Club} to 1057
+
+		set {item.type::1058} to 1
+		set {item.name::1058} to "&6Rending Axe"
+		set {item.phys::1058} to 170
+		set {item.weig::1058} to 60
+		set {item.rang::1058} to 3
+		set {item.clas::1058} to "Very Heavy"
+		set {item.strr::1058} to 40
+		set {item.sscl::1058} to "E"
+		set {item.lore::1058} to "A crudely constructed axe intended to rip its target limb from limb."
+		set {item.item::1058} to stone axe
+		set {id.Rending Axe} to 1058
+
+		set {item.type::1059} to 1
+		set {item.name::1059} to "&6Dirk"
+		set {item.phys::1059} to 32
+		set {item.weig::1059} to 16
+		set {item.rang::1059} to 2
+		set {item.clas::1059} to "Very Light"
+		set {item.crit::1059} to 1.25
+		set {item.dexr::1059} to 20
+		set {item.dscl::1059} to "A"
+		set {item.lore::1059} to "A long thrusting dagger set apart by its intended use in general combat."
+		set {item.item::1059} to iron sword
+		set {id.Dirk} to 1059
+
+		set {item.type::1060} to 1
+		set {item.name::1060} to "&6Jewel Crusher"
+		set {item.phys::1060} to 50
+		set {item.eart::1060} to 50
+		set {item.weig::1060} to 40
+		set {item.rang::1060} to 3
+		set {item.clas::1060} to "Heavy"
+		set {item.strr::1060} to 12
+		set {item.sscl::1060} to "E"
+		set {item.lore::1060} to "A jagged mace crafted out of precious jewels."
+		set {item.item::1060} to diamond shovel
+		set {id.Jewel Crusher} to 1060
+
+		set {item.type::1061} to 1
+		set {item.name::1061} to "&6Machete"
+		set {item.phys::1061} to 48
+		set {item.weig::1061} to 20
+		set {item.rang::1061} to 2
+		set {item.clas::1061} to "Light"
+		set {item.dexr::1061} to 14
+		set {item.dscl::1061} to "D"
+		set {item.blee::1061} to 10
+		set {item.lore::1061} to "A short knife that can be wielded in combat like a sword."
+		set {item.item::1061} to gold sword
+		set {id.Machete} to 1061
+
+		set {item.type::1062} to 1
+		set {item.name::1062} to "&6Idol Axe"
+		set {item.phys::1062} to 50
+		set {item.weig::1062} to 28
+		set {item.rang::1062} to 3
+		set {item.clas::1062} to "Medium"
+		set {item.strr::1062} to 40
+		set {item.sscl::1062} to "B"
+		set {item.lore::1062} to "A mass produced axe used by the multitude of idols created by the Sculptor."
+		set {item.item::1062} to wooden axe
+		set {id.Idol Axe} to 1062
+
+		set {item.type::1063} to 1
+		set {item.name::1063} to "&6Primal Spear"
+		set {item.phys::1063} to 38
+		set {item.weig::1063} to 32
+		set {item.rang::1063} to 4
+		set {item.clas::1063} to "Medium"
+		set {item.dexr::1063} to 10
+		set {item.dscl::1063} to "B"
+		set {item.slow::1063} to 10
+		set {item.stmd::1063} to -1
+		set {item.lore::1063} to "An incredibly sharp spear coated in a numbing gel."
+		set {item.item::1063} to gold shovel
+		set {id.Primal Spear} to 1063
+
+		set {item.type::1064} to 1
+		set {item.name::1064} to "&6Sculpting Knife"
+		set {item.phys::1064} to 33
+		set {item.weig::1064} to 14
+		set {item.rang::1064} to 3
+		set {item.clas::1064} to "Very Light"
+		set {item.crit::1064} to 1.3
+		set {item.dexr::1064} to 30
+		set {item.dscl::1064} to "S"
+		set {item.lvup::1064} to 0.1
+		set {item.matr::1064} to 1
+		set {item.lore::1064} to "A very long knife once used by the Sculptor to create masses of idols to do his bidding. Deals critical damage against wooden enemies."
+		set {item.item::1064} to glowing stone sword
+		set {id.Sculpting Knife} to 1064
+
+		set {item.type::1065} to 1
+		set {item.name::1065} to "&6Ice Blade"
+		set {item.phys::1065} to 30
+		set {item.wate::1065} to 30
+		set {item.weig::1065} to 34
+		set {item.rang::1065} to 3
+		set {item.clas::1065} to "Medium"
+		set {item.dexr::1065} to 8
+		set {item.dscl::1065} to "D"
+		set {item.intr::1065} to 8
+		set {item.iscl::1065} to "D"
+		set {item.slow::1065} to 9
+		set {item.lore::1065} to "An iron sword enchanted with the power of ice that can inflict slow on its victims."
+		set {item.item::1065} to glowing iron sword
+		set {id.Ice Blade} to 1065
+
+		set {item.type::1066} to 1
+		set {item.name::1066} to "&6Icicle"
+		set {item.phys::1066} to 64
+		set {item.weig::1066} to 20
+		set {item.rang::1066} to 3
+		set {item.clas::1066} to "Light"
+		set {item.strr::1066} to 8
+		set {item.sscl::1066} to "E"
+		set {item.lore::1066} to "A sharp sliver of ice that can be swung around to slash at enemies."
+		set {item.item::1066} to blaze rod
+		set {id.Icicle} to 1066
+
+		set {item.type::1067} to 1
+		set {item.name::1067} to "&6Great Hammer"
+		set {item.phys::1067} to 60
+		set {item.weig::1067} to 42
+		set {item.rang::1067} to 3
+		set {item.clas::1067} to "Very Heavy"
+		set {item.strr::1067} to 12
+		set {item.sscl::1067} to "A"
+		set {item.lore::1067} to "A heavy hammer used by the constructs that serve the queen of Darkwater Sanctum."
+		set {item.item::1067} to iron pickaxe
+		set {id.Great Hammer} to 1067
+
+		set {item.type::1068} to 1
+		set {item.name::1068} to "&6Frostbite Staff"
+		set {item.phys::1068} to 22
+		set {item.wate::1068} to 22
+		set {item.weig::1068} to 24
+		set {item.rang::1068} to 3
+		set {item.clas::1068} to "Light"
+		set {item.intr::1068} to 20
+		set {item.iscl::1068} to "A"
+		set {item.lvup::1068} to 0.1
+		set {item.matr::1068} to 1
+		set {item.lore::1068} to "A staff wielded by the Queen and Head Priestess Shiva who governed a sanctuary dedicated to an ancient god."
+		set {item.skil::1068} to "Skill: Frostwalk - Gain the ability to walk on water for a short period of time. (%{skil.mana::10}% MP)"
+		set {item.item::1068} to glowing iron hoe
+		set {id.Frostbite Staff} to 1068
+
+		set {item.type::1069} to 1
+		set {item.name::1069} to "&6Templar Greatsword"
+		set {item.phys::1069} to 123
+		set {item.weig::1069} to 42
+		set {item.rang::1069} to 3
+		set {item.clas::1069} to "Very Heavy"
+		set {item.strr::1069} to 20
+		set {item.sscl::1069} to "C"
+		set {item.lvup::1069} to 0.1
+		set {item.matr::1069} to 1
+		set {item.lore::1069} to "A sword used by the Templars that protected the priestesses against those who wished to put an end to their holy ceremony."
+		set {item.skil::1069} to "Skill: Dragon Rush - Perform a series of rapid attacks. (%{skil.mana::9}% MP)"
+		set {item.item::1069} to glowing diamond sword
+		set {id.Templar Greatsword} to 1069
+
+		set {item.type::1070} to 1
+		set {item.name::1070} to "&6Ice Axe"
+		set {item.phys::1070} to 65
+		set {item.wate::1070} to 65
+		set {item.weig::1070} to 50
+		set {item.rang::1070} to 2
+		set {item.clas::1070} to "Very Heavy"
+		set {item.strr::1070} to 24
+		set {item.sscl::1070} to "E"
+		set {item.lore::1070} to "A very large and powerful axe enchanted with the powers of ice."
+		set {item.item::1070} to glowing iron axe
+		set {id.Ice Axe} to 1070
+
+		set {item.type::1071} to 1
+		set {item.name::1071} to "&6Right Claw"
+		set {item.phys::1071} to 45
+		set {item.weig::1071} to 20
+		set {item.rang::1071} to 2
+		set {item.clas::1071} to "Light"
+		set {item.crit::1071} to 1.5
+		set {item.dexr::1071} to 16
+		set {item.dscl::1071} to "B"
+		set {item.lvup::1071} to 0.1
+		set {item.blee::1071} to 7
+		set {item.matr::1071} to 1
+		set {item.lore::1071} to "A jagged, defiled claw wielded in the main hand."
+		set {item.skil::1071} to "Skill: Raptor Fury - Together with the Left Claw, lunge forward and perform a devastating series of blows. (%{skil.mana::11}% MP)"
+		set {item.item::1071} to wood hoe
+		set {id.Right Claw} to 1071
+
+		set {item.type::1072} to 1
+		set {item.name::1072} to "&6Left Claw"
+		set {item.phys::1072} to 30
+		set {item.weig::1072} to 12
+		set {item.rang::1072} to 2
+		set {item.clas::1072} to "Very Light"
+		set {item.crit::1072} to 1.5
+		set {item.dexr::1072} to 16
+		set {item.dscl::1072} to "B"
+		set {item.lvup::1072} to 0.1
+		set {item.blee::1072} to 5
+		set {item.matr::1072} to 1
+		set {item.lore::1072} to "A jagged, defiled claw wielded in the off hand."
+		set {item.item::1072} to wood hoe
+		set {id.Left Claw} to 1072
+
+		set {item.type::1073} to 1
+		set {item.name::1073} to "&6Zweihander"
+		set {item.phys::1073} to 72
+		set {item.weig::1073} to 52
+		set {item.rang::1073} to 3
+		set {item.clas::1073} to "Very Heavy"
+		set {item.strr::1073} to 20
+		set {item.sscl::1073} to "A"
+		set {item.lore::1073} to "A gigantic two-handed sword wielded by legendary warriors."
+		set {item.item::1073} to iron sword
+		set {id.Zweihander} to 1073
+
+		set {item.type::1074} to 1
+		set {item.name::1074} to "&6Beheading Axe"
+		set {item.phys::1074} to 70
+		set {item.weig::1074} to 34
+		set {item.rang::1074} to 3
+		set {item.clas::1074} to "Medium"
+		set {item.strr::1074} to 20
+		set {item.sscl::1074} to "E"
+		set {item.blee::1074} to 11
+		set {item.lore::1074} to "An axe that was used to behead prisoners."
+		set {item.item::1074} to stone axe
+		set {id.Beheading Axe} to 1074
+
+		set {item.type::1075} to 1
+		set {item.name::1075} to "&6Phantasm Scythe"
+		set {item.phys::1075} to 26
+		set {item.wind::1075} to 12
+		set {item.weig::1075} to 22
+		set {item.rang::1075} to 2
+		set {item.clas::1075} to "Light"
+		set {item.dexr::1075} to 12
+		set {item.dscl::1075} to "S"
+		set {item.lore::1075} to "An illusory scythe wielded by the incorporeal spirits that wander the halls of Phantasmagoria."
+		set {item.item::1075} to glowing diamond hoe
+		set {id.Phantasm Scythe} to 1075
+
+		set {item.type::1076} to 1
+		set {item.name::1076} to "&6Rotting Bat"
+		set {item.phys::1076} to 48
+		set {item.weig::1076} to 22
+		set {item.rang::1076} to 3
+		set {item.clas::1076} to "Heavy"
+		set {item.strr::1076} to 6
+		set {item.sscl::1076} to "C"
+		set {item.pois::1076} to 13
+		set {item.lore::1076} to "An unwieldly bat that has become easy to carry due to rot."
+		set {item.item::1076} to stick
+		set {id.Rotting Bat} to 1076
+
+		set {item.type::1077} to 1
+		set {item.name::1077} to "&6Estoc"
+		set {item.phys::1077} to 42
+		set {item.weig::1077} to 26
+		set {item.rang::1077} to 3
+		set {item.clas::1077} to "Light"
+		set {item.crit::1077} to 1.5
+		set {item.strr::1077} to 10
+		set {item.sscl::1077} to "D"
+		set {item.dexr::1077} to 18
+		set {item.dscl::1077} to "B"
+		set {item.lore::1077} to "A light fencing blade that requires much training to use effectively."
+		set {item.item::1077} to iron sword
+		set {id.Estoc} to 1077
+
+		set {item.type::1078} to 1
+		set {item.name::1078} to "&6Bone Fragment"
+		set {item.phys::1078} to 22
+		set {item.weig::1078} to 4
+		set {item.rang::1078} to 1
+		set {item.clas::1078} to "Very Light"
+		set {item.strr::1078} to 3
+		set {item.sscl::1078} to "E"
+		set {item.stmd::1078} to -2
+		set {item.lore::1078} to "A shattered fragment of a former inmate's skeleton."
+		set {item.item::1078} to bone
+		set {id.Bone Fragment} to 1078
+
+		set {item.type::1079} to 1
+		set {item.name::1079} to "&6Jewel Encrusted Sword"
+		set {item.phys::1079} to 30
+		set {item.fire::1079} to 5
+		set {item.wate::1079} to 5
+		set {item.eart::1079} to 5
+		set {item.wind::1079} to 5
+		set {item.weig::1079} to 36
+		set {item.rang::1079} to 3
+		set {item.clas::1079} to "Medium"
+		set {item.strr::1079} to 14
+		set {item.sscl::1079} to "C"
+		set {item.dexr::1079} to 14
+		set {item.dscl::1079} to "C"
+		set {item.lore::1079} to "An ornamental golden sword adorned with various expensive jewelry."
+		set {item.item::1079} to glowing gold sword
+		set {id.Jewel Encrusted Sword} to 1079
+
+		set {item.type::1080} to 1
+		set {item.name::1080} to "&6Butcher's Knife"
+		set {item.phys::1080} to 32
+		set {item.weig::1080} to 20
+		set {item.rang::1080} to 3
+		set {item.clas::1080} to "Light"
+		set {item.strr::1080} to 8
+		set {item.sscl::1080} to "A"
+		set {item.lore::1080} to "A knife used by chefs to tear apart meat. Not originally intended for use in combat."
+		set {item.item::1080} to wood sword
+		set {id.Butcher's Knife} to 1080
+
+		set {item.type::1081} to 1
+		set {item.name::1081} to "&6Butler Baton"
+		set {item.phys::1081} to 64
+		set {item.weig::1081} to 36
+		set {item.rang::1081} to 3
+		set {item.clas::1081} to "Heavy"
+		set {item.strr::1081} to 16
+		set {item.sscl::1081} to "B"
+		set {item.lore::1081} to "A baton wielded by servants in Phantasmagoria to protect against intruders."
+		set {item.item::1081} to blaze rod
+		set {id.Butler Baton} to 1081
+
+		set {item.type::1082} to 1
+		set {item.name::1082} to "&6Skylark Staff"
+		set {item.phys::1082} to 30
+		set {item.wind::1082} to 30
+		set {item.weig::1082} to 60
+		set {item.rang::1082} to 3
+		set {item.clas::1082} to "Very Heavy"
+		set {item.strr::1082} to 8
+		set {item.sscl::1082} to "E"
+		set {item.intr::1082} to 30
+		set {item.iscl::1082} to "A"
+		set {item.lore::1082} to "A supremely heavy enchanted staff adorned with an image of a skylark."
+		set {item.item::1082} to glowing gold hoe
+		set {id.Skylark Staff} to 1082
+
+		set {item.type::1083} to 1
+		set {item.name::1083} to "&6Phantasm Blade I"
+		set {item.phys::1083} to 37
+		set {item.wind::1083} to 23
+		set {item.weig::1083} to 24
+		set {item.rang::1083} to 3
+		set {item.clas::1083} to "Light"
+		set {item.strr::1083} to 16
+		set {item.sscl::1083} to "C"
+		set {item.dexr::1083} to 16
+		set {item.dscl::1083} to "C"
+		set {item.intr::1083} to 12
+		set {item.iscl::1083} to "D"
+		set {item.lvup::1083} to 0.1
+		set {item.matr::1083} to 1
+		set {item.lore::1083} to "A blade of light extending from an enchanted hilt, wielded by the ruler of Phantasmagoria."
+		set {item.skil::1083} to "Skill: Shapeshift - Change the size of the blade and attack immediately."
+		set {item.item::1083} to glowing diamond sword
+		set {id.Phantasm Blade I} to 1083
+
+		set {item.type::1084} to 1
+		set {item.name::1084} to "&6Phantasm Blade II"
+		set {item.phys::1084} to 60
+		set {item.wind::1084} to 36
+		set {item.weig::1084} to 42
+		set {item.rang::1084} to 3
+		set {item.clas::1084} to "Heavy"
+		set {item.strr::1084} to 16
+		set {item.sscl::1084} to "C"
+		set {item.dexr::1084} to 16
+		set {item.dscl::1084} to "C"
+		set {item.intr::1084} to 12
+		set {item.iscl::1084} to "D"
+		set {item.lvup::1084} to 0.1
+		set {item.matr::1084} to 1
+		set {item.lore::1084} to "A blade of light extending from an enchanted hilt, wielded by the ruler of Phantasmagoria."
+		set {item.skil::1084} to "Skill: Shapeshift - Change the size of the blade and attack immediately."
+		set {item.item::1084} to glowing diamond sword
+		set {id.Phantasm Blade II} to 1084
+
+		set {item.type::1085} to 1
+		set {item.name::1085} to "&6Essence Axe"
+		set {item.phys::1085} to 160
+		set {item.weig::1085} to 28
+		set {item.rang::1085} to 3
+		set {item.clas::1085} to "Very Heavy"
+		set {item.strr::1085} to 40
+		set {item.lore::1085} to "An axe comprised of collected anima."
+		set {item.item::1085} to glowing diamond axe
+		set {id.Essence Axe} to 1085
+
+		set {item.type::1086} to 1
+		set {item.name::1086} to "&6Essence Blade"
+		set {item.phys::1086} to 100
+		set {item.weig::1086} to 16
+		set {item.rang::1086} to 3
+		set {item.clas::1086} to "Medium"
+		set {item.strr::1086} to 25
+		set {item.dexr::1086} to 25
+		set {item.lore::1086} to "A sword comprised of collected anima."
+		set {item.item::1086} to glowing diamond sword
+		set {id.Essence Blade} to 1086
+		
+		set {item.type::1087} to 1
+		set {item.name::1087} to "&6Essence Staff"
+		set {item.phys::1087} to 55
+		set {item.weig::1087} to 10
+		set {item.rang::1087} to 3
+		set {item.clas::1087} to "Light"
+		set {item.intr::1087} to 40
+		set {item.lore::1087} to "A staff comprised of collected anima."
+		set {item.item::1087} to glowing diamond hoe
+		set {id.Essence Staff} to 1087
+
+		set {item.type::1088} to 1
+		set {item.name::1088} to "&6Essence Spear"
+		set {item.phys::1088} to 80
+		set {item.weig::1088} to 18
+		set {item.rang::1088} to 4
+		set {item.clas::1088} to "Medium"
+		set {item.dexr::1088} to 40
+		set {item.stmd::1088} to -1
+		set {item.lore::1088} to "A spear comprised of collected anima."
+		set {item.item::1088} to glowing diamond shovel
+		set {id.Essence Spear} to 1088
+
+		set {item.type::1089} to 1
+		set {item.name::1089} to "&6Staff of Judgment"
+		set {item.phys::1089} to 45
+		set {item.weig::1089} to 30
+		set {item.rang::1089} to 3
+		set {item.clas::1089} to "Medium"
+		set {item.intr::1089} to 30
+		set {item.iscl::1089} to "S"
+		set {item.lvup::1089} to 0.1
+		set {item.matr::1089} to 1
+		set {item.lore::1089} to "A staff used to judge the fate of the guilty."
+		set {item.skil::1089} to "Skill: Anima Shot - Fire a blast of concentrated anima. (%{item.mana::5502}% MP)"
+		set {item.item::1089} to glowing gold hoe
+		set {id.Staff of Judgment} to 1089
+
+		set {item.type::1090} to 1
+		set {item.name::1090} to "&6Adventurer's Staff"
+		set {item.phys::1090} to 32
+		set {item.weig::1090} to 28
+		set {item.rang::1090} to 3
+		set {item.clas::1090} to "Medium"
+		set {item.strr::1090} to 10
+		set {item.sscl::1090} to "A"
+		set {item.dexr::1090} to 10
+		set {item.dscl::1090} to "A"
+		set {item.lore::1090} to "A staff enchanted with the spirit of adventure. Incredibly effective when used in the hands of an experienced warrior. Reduces sprinting cost while held."
+		set {item.item::1090} to glowing stick
+		set {id.Adventurer's Staff} to 1090
+		
+		set {item.type::1091} to 1
+		set {item.name::1091} to "&6Bandit Knife"
+		set {item.phys::1091} to 24
+		set {item.weig::1091} to 14
+		set {item.rang::1091} to 2
+		set {item.clas::1091} to "Very Light"
+		set {item.crit::1091} to 2.5
+		set {item.dexr::1091} to 10
+		set {item.dscl::1091} to "A"
+		set {item.lore::1091} to "A lightweight knife used by bandits."
+		set {item.item::1091} to wooden sword
+		set {id.Bandit Knife} to 1091
+		
+		set {item.type::1092} to 1
+		set {item.name::1092} to "&6Staff"
+		set {item.phys::1092} to 55
+		set {item.weig::1092} to 24
+		set {item.rang::1092} to 3
+		set {item.clas::1092} to "Medium"
+		set {item.intr::1092} to 5
+		set {item.iscl::1092} to "D"
+		set {item.lore::1092} to "A staff that channels the wielder's intelligence."
+		set {item.item::1092} to gold hoe
+		set {id.Staff} to 1092
+		
+		set {item.type::1093} to 1
+		set {item.name::1093} to "&6Large Branch"
+		set {item.phys::1093} to 58
+		set {item.weig::1093} to 28
+		set {item.rang::1093} to 3
+		set {item.clas::1093} to "Heavy"
+		set {item.strr::1093} to 3
+		set {item.sscl::1093} to "E"
+		set {item.lore::1093} to "Nothing more than a larger than average stick found in the woods."
+		set {item.item::1093} to stick
+		set {id.Large Branch} to 1093
+		
+		set {item.type::1094} to 1
+		set {item.name::1094} to "&6Parrying Dagger"
+		set {item.phys::1094} to 30
+		set {item.weig::1094} to 14
+		set {item.rang::1094} to 2
+		set {item.clas::1094} to "Very Light"
+		set {item.crit::1094} to 2.5
+		set {item.dexr::1094} to 7
+		set {item.dscl::1094} to "D"
+		set {item.parr::1094} to 1
+		set {item.lore::1094} to "A light dagger typically wielded in the off hand. Can be used to parry with."
+		set {item.item::1094} to wooden sword
+		set {id.Parrying Dagger} to 1094
+		
+		set {item.type::1095} to 1
+		set {item.name::1095} to "&6Sculpting Chisel"
+		set {item.phys::1095} to 38
+		set {item.weig::1095} to 18
+		set {item.rang::1095} to 3
+		set {item.clas::1095} to "Light"
+		set {item.crit::1095} to 1.3
+		set {item.dexr::1095} to 20
+		set {item.dscl::1095} to "A"
+		set {item.intr::1095} to 6
+		set {item.lvup::1095} to 0.1
+		set {item.matr::1095} to 1
+		set {item.lore::1095} to "A chisel wielded by the apprentice of the progenitor."
+		set {item.skil::1095} to "Skill: Rejuvenate - Fully heal the host as a summoned player. (%{skil.mana::12}% MP)"
+		set {item.item::1095} to glowing stone sword
+		set {id.Sculpting Chisel} to 1095
+		
+		set {item.type::1096} to 1
+		set {item.name::1096} to "&6Assassin Dagger"
+		set {item.phys::1096} to 40
+		set {item.weig::1096} to 16
+		set {item.rang::1096} to 2
+		set {item.clas::1096} to "Very Light"
+		set {item.crit::1096} to 2.5
+		set {item.dexr::1096} to 30
+		set {item.dscl::1096} to "E"
+		set {item.pois::1096} to 7
+		set {item.lvup::1096} to 0.1
+		set {item.matr::1096} to 1
+		set {item.lore::1096} to "A toxin coated blade wielded by assassins. Deals extremely high poison damage."
+		set {item.item::1096} to glowing wood sword
+		set {id.Assassin Dagger} to 1096
+		
+		set {item.type::1097} to 1
+		set {item.name::1097} to "&6Black Knight Greataxe"
+		set {item.phys::1097} to 54
+		set {item.fire::1097} to 18
+		set {item.weig::1097} to 70
+		set {item.rang::1097} to 3
+		set {item.clas::1097} to "Very Heavy"
+		set {item.strr::1097} to 40
+		set {item.sscl::1097} to "A"
+		set {item.dexr::1097} to 16
+		set {item.dscl::1097} to "C"
+		set {item.lore::1097} to "A tremendously powerful yet heavy greataxe wielded by legendary soldiers charred by flame."
+		set {item.item::1097} to glowing stone axe
+		set {id.Black Knight Greataxe} to 1097
+		
+		set {item.type::1098} to 1
+		set {item.name::1098} to "&6Bone Club"
+		set {item.phys::1098} to 50
+		set {item.weig::1098} to 28
+		set {item.rang::1098} to 3
+		set {item.clas::1098} to "Medium"
+		set {item.strr::1098} to 16
+		set {item.sscl::1098} to "B"
+		set {item.stmd::1098} to 2
+		set {item.lore::1098} to "A bone with no special powers that nonetheless can cause destruction when wielded by one with enough strength."
+		set {item.item::1098} to bone
+		set {id.Bone Club} to 1098
+
+		set {item.type::1099} to 1
+		set {item.name::1099} to "&6Fusion Blade"
+		set {item.phys::1099} to 46
+		set {item.weig::1099} to 18
+		set {item.rang::1099} to 3
+		set {item.clas::1099} to "Heavy"
+		set {item.strr::1099} to 18
+		set {item.sscl::1099} to "C"
+		set {item.dexr::1099} to 18
+		set {item.dscl::1099} to "C"
+		set {item.lore::1099} to "An enchanted blade that packs quite a punch despite its suspiciously low weight."
+		set {item.item::1099} to glowing gold sword
+		set {id.Fusion Blade} to 1099
+
+		set {item.type::1100} to 1
+		set {item.name::1100} to "&6Scalpel"
+		set {item.phys::1100} to 32
+		set {item.weig::1100} to 20
+		set {item.rang::1100} to 3
+		set {item.clas::1100} to "Medium"
+		set {item.dexr::1100} to 18
+		set {item.dscl::1100} to "B"
+		set {item.blee::1100} to 4
+		set {item.pois::1100} to 7
+		set {item.lore::1100} to "An unsanitary scalpel wielded by one would take advantage of the pygmys' plight to use their corpses in medical research."
+		set {item.item::1100} to wood sword
+		set {id.Scalpel} to 1100
+		
+		set {item.type::1101} to 1
+		set {item.name::1101} to "&6Sentinel Pike"
+		set {item.phys::1101} to 62
+		set {item.weig::1101} to 42
+		set {item.rang::1101} to 4
+		set {item.clas::1101} to "Heavy"
+		set {item.dexr::1101} to 12
+		set {item.dscl::1101} to "C"
+		set {item.stmd::1101} to -1
+		set {item.lore::1101} to "A pike once wielded by the gatekeepers of Alendale, depicted in the statues seen in the castle gardens. This one in particlar has seen exemplary upkeep and is in pristine condition."
+		set {item.item::1101} to iron shovel
+		set {id.Sentinel Pike} to 1101
+		
+		set {item.type::1102} to 1
+		set {item.name::1102} to "&6Illusory Wand"
+		set {item.phys::1102} to 10
+		set {item.wind::1102} to 10
+		set {item.weig::1102} to 12
+		set {item.rang::1102} to 2
+		set {item.clas::1102} to "Very Light"
+		set {item.dexr::1102} to 6
+		set {item.dscl::1102} to "E"
+		set {item.intr::1102} to 30
+		set {item.iscl::1102} to "B"
+		set {item.lore::1102} to "A wand granted to witches who studied under the master illusionist."
+		set {item.item::1102} to glowing stick
+		set {id.Illusory Wand} to 1102
+		
+		set {item.type::1103} to 1
+		set {item.name::1103} to "&6Spire Scythe"
+		set {item.phys::1103} to 10
+		set {item.fire::1103} to 30
+		set {item.eart::1103} to 36
+		set {item.weig::1103} to 38
+		set {item.rang::1103} to 2
+		set {item.clas::1103} to "Heavy"
+		set {item.dexr::1103} to 14
+		set {item.dscl::1103} to "D"
+		set {item.intr::1103} to 14
+		set {item.iscl::1103} to "D"
+		set {item.lore::1103} to "A scythe wielded by a being who hunted those lost in the dark."
+		set {item.item::1103} to glowing wood hoe
+		set {id.Spire Scythe} to 1103
+		
+		set {item.type::1104} to 1
+		set {item.name::1104} to "&6Brand of the Abyss"
+		set {item.phys::1104} to 36
+		set {item.fire::1104} to 14
+		set {item.weig::1104} to 36
+		set {item.rang::1104} to 4
+		set {item.clas::1104} to "Heavy"
+		set {item.strr::1104} to 12
+		set {item.sscl::1104} to "D"
+		set {item.dexr::1104} to 12
+		set {item.dscl::1104} to "D"
+		set {item.intr::1104} to 12
+		set {item.iscl::1104} to "D"
+		set {item.lore::1104} to "A sizzling poker that brands victims with the symbol of the Abyss. Deals unusually large stagger."
+		set {item.item::1104} to glowing blaze rod
+		set {id.Brand of the Abyss} to 1104
+		
+		set {item.type::1105} to 1
+		set {item.name::1105} to "&6Mercury Staff"
+		set {item.phys::1105} to 44
+		set {item.weig::1105} to 30
+		set {item.rang::1105} to 3
+		set {item.clas::1105} to "Medium"
+		set {item.intr::1105} to 12
+		set {item.iscl::1105} to "C"
+		set {item.pois::1105} to 9
+		set {item.lore::1105} to "A staff enchanted with a poisonous spell. Seems to have been summoned from another world."
+		set {item.item::1105} to gold hoe
+		set {id.Mercury Staff} to 1105
+		
+		set {item.type::1106} to 1
+		set {item.name::1106} to "&6Troll Axe"
+		set {item.phys::1106} to 110
+		set {item.weig::1106} to 60
+		set {item.rang::1106} to 2
+		set {item.clas::1106} to "Heavy"
+		set {item.strr::1106} to 10
+		set {item.sscl::1106} to "D"
+		set {item.lore::1106} to "A terribly destructive slab of stone that can be wielded like an axe. Doesn't take much skill to use, but can't be used for much more than bashing wildly with."
+		set {item.item::1106} to stone axe
+		set {id.Troll Axe} to 1106
+		
+		set {item.type::1107} to 1
+		set {item.name::1107} to "&6Quake Hammer"
+		set {item.phys::1107} to 78
+		set {item.weig::1107} to 48
+		set {item.rang::1107} to 3
+		set {item.clas::1107} to "Very Heavy"
+		set {item.strr::1107} to 24
+		set {item.sscl::1107} to "B"
+		set {item.lore::1107} to "An unwieldly hammer that leaves great destruction in its wake. Has a large plunge radius."
+		set {item.item::1107} to glowing stone pickaxe
+		set {id.Quake Hammer} to 1107
+		
+		set {item.type::1108} to 1
+		set {item.name::1108} to "&6Delirium Reaper"
+		set {item.phys::1108} to 54
+		set {item.weig::1108} to 24
+		set {item.rang::1108} to 2
+		set {item.clas::1108} to "Light"
+		set {item.strr::1108} to 8
+		set {item.sscl::1108} to "E"
+		set {item.dexr::1108} to 36
+		set {item.dscl::1108} to "A"
+		set {item.blee::1108} to 5
+		set {item.lvup::1108} to 0.1
+		set {item.matr::1108} to 1
+		set {item.lore::1108} to "A scythe wielded by an incarnation of the Entity tasked with rotting the minds of the pygmy civilization."
+		set {item.skil::1108} to "Skill: Neck Swipe - Quickly slash out in an arc in front of the player. (%{skil.mana::13}% MP)"
+		set {item.item::1108} to glowing wood hoe
+		set {id.Delirium Reaper} to 1108
+		
+		set {item.type::1109} to 1
+		set {item.name::1109} to "&6Delirium Crusher"
+		set {item.phys::1109} to 108
+		set {item.weig::1109} to 48
+		set {item.rang::1109} to 3
+		set {item.clas::1109} to "Very Heavy"
+		set {item.strr::1109} to 50
+		set {item.sscl::1109} to "B"
+		set {item.lvup::1109} to 0.1
+		set {item.matr::1109} to 1
+		set {item.lore::1109} to "An axe wielded by an incarnation of the Entity tasked with rotting the minds of the pygmy civilization."
+		set {item.skil::1109} to "Skill: Forceful Blow - Perform a single attack that deals incredible stagger. (%{skil.mana::14}% MP)"
+		set {item.item::1109} to glowing wood axe
+		set {id.Delirium Crusher} to 1109
+		
+		set {item.type::1110} to 1
+		set {item.name::1110} to "&6Baneful Pincers"
+		set {item.phys::1110} to 76
+		set {item.weig::1110} to 32
+		set {item.rang::1110} to 3
+		set {item.clas::1110} to "Medium"
+		set {item.dexr::1110} to 25
+		set {item.dscl::1110} to "B"
+		set {item.lvup::1110} to 0.1
+		set {item.matr::1110} to 1
+		set {item.lore::1110} to "A pair of pincers torn from the corpse of the horror that fed on the corpses in the depths of the Howling Gulch."
+		set {item.skil::1110} to "Skill: Fang Strike - Emit a shockwave that travels along the ground a short ways. (%{skil.mana::15}% MP)"
+		set {item.item::1110} to shears
+		set {id.Baneful Pincers} to 1110
+		
+		set {item.type::1111} to 1
+		set {item.name::1111} to "&6Kotoborro Soldier Sword"
+		set {item.phys::1111} to 48
+		set {item.weig::1111} to 26
+		set {item.rang::1111} to 3
+		set {item.clas::1111} to "Medium"
+		set {item.strr::1111} to 16
+		set {item.sscl::1111} to "B"
+		set {item.dexr::1111} to 8
+		set {item.dscl::1111} to "D"
+		set {item.lore::1111} to "A straight sword that is commonly wielded by the pygmy warriors of Kotoborro."
+		set {item.item::1111} to wood sword
+		set {id.Kotoborro Soldier Sword} to 1111
+		
+		set {item.type::1112} to 1
+		set {item.name::1112} to "&6Kotoborro Mage Staff"
+		set {item.phys::1112} to 42
+		set {item.weig::1112} to 22
+		set {item.rang::1112} to 3
+		set {item.clas::1112} to "Light"
+		set {item.intr::1112} to 8
+		set {item.iscl::1112} to "C"
+		set {item.lore::1112} to "A staff used by Kotoborro mages to complement their spells."
+		set {item.item::1112} to stone hoe
+		set {id.Kotoborro Mage Staff} to 1112
+		
+		set {item.type::1113} to 1
+		set {item.name::1113} to "&6Faerie Wand"
+		set {item.phys::1113} to 8
+		set {item.eart::1113} to 8
+		set {item.weig::1113} to 6
+		set {item.rang::1113} to 2
+		set {item.clas::1113} to "Very Light"
+		set {item.dexr::1113} to 5
+		set {item.dscl::1113} to "E"
+		set {item.intr::1113} to 10
+		set {item.iscl::1113} to "S"
+		set {item.lore::1113} to "An wand that has been enchanted with ancient earth magic."
+		set {item.item::1113} to glowing blaze rod
+		set {id.Faerie Wand} to 1113
+		
+		set {item.type::1114} to 1
+		set {item.name::1114} to "&6Slag Club"
+		set {item.phys::1114} to 88
+		set {item.weig::1114} to 92
+		set {item.rang::1114} to 3
+		set {item.clas::1114} to "Very Heavy"
+		set {item.strr::1114} to 60
+		set {item.sscl::1114} to "A"
+		set {item.stmd::1114} to 2
+		set {item.lore::1114} to "An incredibly unwieldly club that can only be swung around by the strongest of the strong."
+		set {item.item::1114} to stick
+		set {id.Slag Club} to 1114
+		
+		set {item.type::1115} to 1
+		set {item.name::1115} to "&6Flower Blade"
+		set {item.phys::1115} to 120
+		set {item.weig::1115} to 28
+		set {item.rang::1115} to 3
+		set {item.clas::1115} to "Medium"
+		set {item.strr::1115} to 30
+		set {item.sscl::1115} to "A"
+		set {item.dexr::1115} to 30
+		set {item.dscl::1115} to "A"
+		set {item.lvup::1115} to 0
+		set {item.lore::1115} to "A legendary blade that scales extremely well with the wielder's combat prowess. Wildly effective when used, but every swing has a small chance to make the sword freak out and disappear for 2 weeks."
+		set {item.item::1115} to glowing gold sword
+		set {id.Flower Blade} to 1115
+		
+		set {item.type::1116} to 1
+		set {item.name::1116} to "&6Earthen Club"
+		set {item.phys::1116} to 40
+		set {item.eart::1116} to 20
+		set {item.weig::1116} to 40
+		set {item.rang::1116} to 3
+		set {item.clas::1116} to "Heavy"
+		set {item.strr::1116} to 16
+		set {item.sscl::1116} to "A"
+		set {item.stmd::1116} to 2
+		set {item.lore::1116} to "A club crafted out of clay that has been enchanted with earth."
+		set {item.item::1116} to glowing stick
+		set {id.Earthen Club} to 1116
+		
+		set {item.type::1117} to 1
+		set {item.name::1117} to "&6Paralyzing Claw"
+		set {item.phys::1117} to 28
+		set {item.weig::1117} to 16
+		set {item.rang::1117} to 2
+		set {item.clas::1117} to "Very Light"
+		set {item.dexr::1117} to 16
+		set {item.dscl::1117} to "D"
+		set {item.slow::1117} to 7
+		set {item.lore::1117} to "An insect claw coated in a layer of debilitating venom."
+		set {item.item::1117} to shears
+		set {id.Paralyzing Claw} to 1117
+		
+		set {item.type::1118} to 1
+		set {item.name::1118} to "&6Flaming Brand"
+		set {item.phys::1118} to 70
+		set {item.fire::1118} to 70
+		set {item.weig::1118} to 28
+		set {item.rang::1118} to 2
+		set {item.clas::1118} to "Medium"
+		set {item.dexr::1118} to 50
+		set {item.dscl::1118} to "A"
+		set {item.lvup::1118} to 0
+		set {item.lore::1118} to "An extremely short brand that would be quite useful, except that its attacks come out randomly delayed (or not at all)."
+		set {item.item::1118} to glowing blaze rod
+		set {id.Flaming Brand} to 1118
+		
+		set {item.type::1119} to 1
+		set {item.name::1119} to "&6Chronos Axe"
+		set {item.phys::1119} to 300
+		set {item.weig::1119} to 100
+		set {item.rang::1119} to 3
+		set {item.clas::1119} to "Very Heavy+"
+		set {item.strr::1119} to 50
+		set {item.sscl::1119} to "A"
+		set {item.lvup::1119} to 0
+		set {item.lore::1119} to "The largest axe in existence. Very powerful when used by a skilled warrior, but extraordinarily slow."
+		set {item.item::1119} to glowing stone axe
+		set {id.Chronos Axe} to 1119
+		
+		# continue balancing here
+		
+		set {item.type::1120} to 1
+		set {item.name::1120} to "&6Scorching Poker"
+		set {item.phys::1120} to 25
+		set {item.fire::1120} to 30
+		set {item.weig::1120} to 30
+		set {item.rang::1120} to 3
+		set {item.clas::1120} to "Medium"
+		set {item.dexr::1120} to 8
+		set {item.dscl::1120} to "D"
+		set {item.intr::1120} to 8
+		set {item.iscl::1120} to "D"
+		set {item.lore::1120} to "A sizzling poker used to brand those who would trespass in the archives."
+		set {item.item::1120} to blaze rod
+		set {id.Scorching Poker} to 1120
+		
+		set {item.type::1121} to 1
+		set {item.name::1121} to "&6Watcher Axe"
+		set {item.phys::1121} to 20
+		set {item.fire::1121} to 10
+		set {item.wate::1121} to 10
+		set {item.eart::1121} to 10
+		set {item.wind::1121} to 10
+		set {item.weig::1121} to 48
+		set {item.rang::1121} to 3
+		set {item.clas::1121} to "Very Heavy"
+		set {item.strr::1121} to 14
+		set {item.sscl::1121} to "C"
+		set {item.dexr::1121} to 8
+		set {item.dscl::1121} to "D"
+		set {item.intr::1121} to 8
+		set {item.iscl::1121} to "D"
+		set {item.lore::1121} to "An axe wielded by magical beings who were left to guard the ultimate secret."
+		set {item.item::1121} to glowing gold axe
+		set {id.Watcher Axe} to 1121
+		
+		set {item.type::1122} to 1
+		set {item.name::1122} to "&6Defiled Great Hammer"
+		set {item.phys::1122} to 45
+		set {item.weig::1122} to 42
+		set {item.rang::1122} to 3
+		set {item.clas::1122} to "Very Heavy"
+		set {item.strr::1122} to 12
+		set {item.sscl::1122} to "A"
+		set {item.blee::1122} to 16
+		set {item.lore::1122} to "A heavy hammer used by the constructs that serve the queen of Darkwater Sanctum. This one has been particularly corrupted by the powers of the abyss."
+		set {item.item::1122} to iron pickaxe
+		set {id.Defiled Great Hammer} to 1122
+		
+		set {item.type::1123} to 1
+		set {item.name::1123} to "&6Templar Straight Sword"
+		set {item.phys::1123} to 50
+		set {item.weig::1123} to 28
+		set {item.rang::1123} to 3
+		set {item.clas::1123} to "Light"
+		set {item.strr::1123} to 20
+		set {item.sscl::1123} to "C"
+		set {item.lore::1123} to "A lighter variant of a sword commonly wielded by Darkwater Templars."
+		set {item.item::1123} to glowing diamond sword
+		set {id.Templar Straight Sword} to 1123
+
+		set {item.type::1124} to 1
+		set {item.name::1124} to "&6Prophet's Scepter"
+		set {item.phys::1124} to 42
+		set {item.weig::1124} to 28
+		set {item.rang::1124} to 3
+		set {item.clas::1124} to "Medium"
+		set {item.intr::1124} to 40
+		set {item.iscl::1124} to "S"
+		set {item.lvup::1124} to 0.1
+		set {item.matr::1124} to 1
+		set {item.lore::1124} to "A scepter equipped with a powerful spell to keep back the masses from a distance."
+		set {item.skil::1124} to "Skill: Anima Volley - Fire a series of blasts of concentrated anima. (%{skil.mana::16}% MP)"
+		set {item.item::1124} to glowing gold hoe
+		set {id.Prophet's Scepter} to 1124
+		
+		set {item.type::1125} to 1
+		set {item.name::1125} to "&6Aquarius Greatsword"
+		set {item.phys::1125} to 30
+		set {item.wate::1125} to 25
+		set {item.weig::1125} to 50
+		set {item.rang::1125} to 3
+		set {item.clas::1125} to "Very Heavy"
+		set {item.strr::1125} to 24
+		set {item.sscl::1125} to "E"
+		set {item.intr::1125} to 5
+		set {item.iscl::1125} to "S"
+		set {item.lore::1125} to "A huge sword wielded by the statues in Darkwater Palace that bears a potent water enchantment."
+		set {item.item::1125} to glowing stone sword
+		set {id.Aquarius Greatsword} to 1125
+		
+		set {item.type::1126} to 1
+		set {item.name::1126} to "&6Splintering Wand"
+		set {item.phys::1126} to 16
+		set {item.weig::1126} to 10
+		set {item.rang::1126} to 2
+		set {item.clas::1126} to "Very Light"
+		set {item.intr::1126} to 10
+		set {item.iscl::1126} to "C"
+		set {item.blee::1126} to 5
+		set {item.lore::1126} to "A well used wand that has become brittle and covered in splinters over centuries of use."
+		set {item.item::1126} to stick
+		set {id.Splintering Wand} to 1126
+		
+		set {item.type::1127} to 1
+		set {item.name::1127} to "&6Animabane"
+		set {item.phys::1127} to 32
+		set {item.weig::1127} to 18
+		set {item.rang::1127} to 3
+		set {item.clas::1127} to "Light"
+		set {item.dexr::1127} to 60
+		set {item.dscl::1127} to "S"
+		set {item.lore::1127} to "A powerful katana enchanted with the powers of anima. Light attacks consume anima to extend the weapon's range."
+		set {item.item::1127} to glowing diamond sword
+		set {id.Animabane} to 1127
+		
+		set {item.type::1128} to 1
+		set {item.name::1128} to "&6Secret Dirk"
+		set {item.phys::1128} to 28
+		set {item.weig::1128} to 14
+		set {item.rang::1128} to 2
+		set {item.clas::1128} to "Very Light"
+		set {item.crit::1128} to 3
+		set {item.dexr::1128} to 10
+		set {item.dscl::1128} to "C"
+		set {item.lore::1128} to "A small backup dagger used mainly for critical hits."
+		set {item.item::1128} to wooden sword
+		set {id.Secret Dirk} to 1128
+		
+		set {item.type::1129} to 1
+		set {item.name::1129} to "&6Fishing Pole"
+		set {item.phys::1129} to 38
+		set {item.weig::1129} to 22
+		set {item.rang::1129} to 3
+		set {item.clas::1129} to "Medium"
+		set {item.strr::1129} to 10
+		set {item.sscl::1129} to "E"
+		set {item.dexr::1129} to 10
+		set {item.dscl::1129} to "E"
+		set {item.lore::1129} to "An ordinary fishing pole that can be used to reel in enemies."
+		set {item.item::1129} to fishing rod
+		set {id.Fishing Pole} to 1129
+		
+		set {item.type::1130} to 1
+		set {item.name::1130} to "&6Stonechipper"
+		set {item.phys::1130} to 60
+		set {item.weig::1130} to 26
+		set {item.rang::1130} to 3
+		set {item.clas::1130} to "Medium"
+		set {item.strr::1130} to 30
+		set {item.sscl::1130} to "D"
+		set {item.lore::1130} to "A lighter than average pickaxe used for mining in higher altitudes."
+		set {item.item::1130} to stone pickaxe
+		set {id.Stonechipper} to 1130
+		
+		set {item.type::1131} to 1
+		set {item.name::1131} to "&6Coral Hammer"
+		set {item.phys::1131} to 40
+		set {item.wate::1131} to 20
+		set {item.weig::1131} to 40
+		set {item.rang::1131} to 3
+		set {item.clas::1131} to "Heavy"
+		set {item.strr::1131} to 16
+		set {item.sscl::1131} to "C"
+		set {item.intr::1131} to 12
+		set {item.iscl::1131} to "C"
+		set {item.lore::1131} to "A seaweed covered hammer wielded by the abominations that feed on corpses in the Darkwater River."
+		set {item.item::1131} to glowing stone axe
+		set {id.Coral Hammer} to 1131
+
+		set {item.type::1132} to 1
+		set {item.name::1132} to "&6Rusted Greatsword"
+		set {item.phys::1132} to 66
+		set {item.weig::1132} to 26
+		set {item.rang::1132} to 3
+		set {item.clas::1132} to "Very Heavy"
+		set {item.strr::1132} to 16
+		set {item.sscl::1132} to "E"
+		set {item.slow::1132} to 14
+		set {item.lore::1132} to "A greatsword that is falling apart with rust from being submerged for aeons."
+		set {item.item::1132} to glowing stone sword
+		set {id.Rusted Greatsword} to 1132
+		
+		set {item.type::1133} to 1
+		set {item.name::1133} to "&6Coral Greatsword"
+		set {item.phys::1133} to 55
+		set {item.wate::1133} to 22
+		set {item.weig::1133} to 60
+		set {item.rang::1133} to 3
+		set {item.clas::1133} to "Very Heavy"
+		set {item.strr::1133} to 16
+		set {item.sscl::1133} to "B"
+		set {item.lore::1133} to "A legendary blade enchanted to withstand the mightiest oceans. Slightly raises water defense."
+		set {item.item::1133} to glowing diamond sword
+		set {id.Coral Greatsword} to 1133
+		
+		set {item.type::1134} to 1
+		set {item.name::1134} to "&6Paddle"
+		set {item.phys::1134} to 60
+		set {item.weig::1134} to 26
+		set {item.rang::1134} to 3
+		set {item.clas::1134} to "Heavy"
+		set {item.strr::1134} to 2
+		set {item.sscl::1134} to "E"
+		set {item.lore::1134} to "A common rowboat paddle."
+		set {item.item::1134} to wood shovel
+		set {id.Paddle} to 1134
+		
+		set {item.type::1135} to 1
+		set {item.name::1135} to "&6Spiked Mace"
+		set {item.phys::1135} to 74
+		set {item.weig::1135} to 56
+		set {item.rang::1135} to 3
+		set {item.clas::1135} to "Very Heavy"
+		set {item.strr::1135} to 24
+		set {item.sscl::1135} to "E"
+		set {item.blee::1135} to 17
+		set {item.lore::1135} to "An iron mace forged with spikes on the end, allowing it to deal massive bleed damage."
+		set {item.item::1135} to iron shovel
+		set {id.Spiked Mace} to 1135
+		
+		set {item.type::1136} to 1
+		set {item.name::1136} to "&6Needle of Agony"
+		set {item.phys::1136} to 30
+		set {item.weig::1136} to 14
+		set {item.rang::1136} to 2
+		set {item.clas::1136} to "Very Light"
+		set {item.dexr::1136} to 25
+		set {item.dscl::1136} to "C"
+		set {item.slow::1136} to 6
+		set {item.lvup::1136} to 0.1
+		set {item.matr::1136} to 1
+		set {item.lore::1136} to "A cursed needle coated with a neurotoxin that neutralizes its target. Inflicts bleed and poison instead if the target is already inflicted with slow."
+		set {item.item::1136} to stick
+		set {id.Needle of Agony} to 1136
+
+		set {item.type::1137} to 1
+		set {item.name::1137} to "&6Conductor's Wand"
+		set {item.phys::1137} to 20
+		set {item.weig::1137} to 14
+		set {item.rang::1137} to 2
+		set {item.clas::1137} to "Very Light"
+		set {item.intr::1137} to 99
+		set {item.iscl::1137} to "S"
+		set {item.lore::1137} to "A wand that can only be wielded by the most intelligent. Produces beautiful melodies when used by those with 200 IQ."
+		set {item.item::1137} to stick
+		set {id.Conductor's Wand} to 1137
+		
+		set {item.type::1138} to 1
+		set {item.name::1138} to "&6Runic Blade"
+		set {item.phys::1138} to 64
+		set {item.weig::1138} to 38
+		set {item.rang::1138} to 3
+		set {item.clas::1138} to "Heavy"
+		set {item.strr::1138} to 16
+		set {item.sscl::1138} to "C"
+		set {item.intr::1138} to 16
+		set {item.iscl::1138} to "C"
+		set {item.lore::1138} to "A blade enchanted with anima that channels the wielder's intelligence."
+		set {item.item::1138} to glowing iron sword
+		set {id.Runic Blade} to 1138
+		
+		set {item.type::1139} to 1
+		set {item.name::1139} to "&6Sapping Mace"
+		set {item.phys::1139} to 82
+		set {item.weig::1139} to 42
+		set {item.rang::1139} to 3
+		set {item.clas::1139} to "Very Heavy"
+		set {item.strr::1139} to 22
+		set {item.sscl::1139} to "D"
+		set {item.slow::1139} to 16
+		set {item.lore::1139} to "A mace that saps the victim's will."
+		set {item.item::1139} to glowing iron shovel
+		set {id.Sapping Mace} to 1139
+		
+		set {item.type::1140} to 1
+		set {item.name::1140} to "&6Foul Ripper"
+		set {item.phys::1140} to 44
+		set {item.weig::1140} to 28
+		set {item.rang::1140} to 2
+		set {item.clas::1140} to "Medium"
+		set {item.strr::1140} to 24
+		set {item.sscl::1140} to "B"
+		set {item.dexr::1140} to 12
+		set {item.dscl::1140} to "D"
+		set {item.blee::1140} to 12
+		set {item.lore::1140} to "A lacerating scythe wielded by the phantoms of those once massacred for their anima."
+		set {item.item::1140} to wood hoe
+		set {id.Foul Ripper} to 1140
+		
+		set {item.type::1141} to 1
+		set {item.name::1141} to "&6Gungnir"
+		set {item.phys::1141} to 50
+		set {item.wind::1141} to 12
+		set {item.weig::1141} to 50
+		set {item.rang::1141} to 4
+		set {item.clas::1141} to "Very Heavy"
+		set {item.dexr::1141} to 36
+		set {item.dscl::1141} to "B"
+		set {item.strr::1141} to 12
+		set {item.sscl::1141} to "E"
+		set {item.stmd::1141} to -1
+		set {item.lore::1141} to "A legendary spear said to have the power to split the sky itself."
+		set {item.item::1141} to diamond shovel
+		set {id.Gungnir} to 1141
+		
+		set {item.type::1142} to 1
+		set {item.name::1142} to "&6Staff of Eden"
+		set {item.phys::1142} to 34
+		set {item.weig::1142} to 30
+		set {item.rang::1142} to 3
+		set {item.clas::1142} to "Medium"
+		set {item.intr::1142} to 60
+		set {item.iscl::1142} to "S"
+		set {item.lore::1142} to "An expertly crafted staff said to have been used in the fight against an ancient warlock."
+		set {item.item::1142} to diamond hoe
+		set {id.Staff of Eden} to 1142
+		
+		set {item.type::1143} to 1
+		set {item.name::1143} to "&6Ragnarok"
+		set {item.phys::1143} to 40
+		set {item.weig::1143} to 40
+		set {item.rang::1143} to 3
+		set {item.clas::1143} to "Heavy"
+		set {item.strr::1143} to 30
+		set {item.sscl::1143} to "A"
+		set {item.dexr::1143} to 30
+		set {item.dscl::1143} to "A"
+		set {item.lore::1143} to "An legendary blade said to have been used in the fight against an ancient warlock."
+		set {item.item::1143} to diamond sword
+		set {id.Ragnarok} to 1143
+
+		set {item.type::1144} to 1
+		set {item.name::1144} to "&6Giant's Axe"
+		set {item.phys::1144} to 240
+		set {item.weig::1144} to 82
+		set {item.rang::1144} to 2
+		set {item.clas::1144} to "Very Heavy"
+		set {item.strr::1144} to 70
+		set {item.sscl::1144} to "E"
+		set {item.lore::1144} to "A monumental slab of stone that is said to have been wielded by an ancient relative of humans."
+		set {item.item::1144} to stone axe
+		set {id.Giant's Axe} to 1144
+		
+		set {item.type::1145} to 1
+		set {item.name::1145} to "&6Faust's Wand"
+		set {item.phys::1145} to 24
+		set {item.weig::1145} to 14
+		set {item.rang::1145} to 2
+		set {item.clas::1145} to "Very Light"
+		set {item.intr::1145} to 24
+		set {item.iscl::1145} to "B"
+		set {item.slow::1145} to 4
+		set {item.lore::1145} to "A wand wielded by a servant of an ancient servant of an incarnation of the Origin."
+		set {item.item::1145} to stick
+		set {id.Faust's Wand} to 1145
+		
+		set {item.type::1146} to 1
+		set {item.name::1146} to "&6Excalibur"
+		set {item.phys::1146} to 84
+		set {item.weig::1146} to 48
+		set {item.rang::1146} to 3
+		set {item.clas::1146} to "Heavy"
+		set {item.strr::1146} to 32
+		set {item.sscl::1146} to "B"
+		set {item.dexr::1146} to 16
+		set {item.dscl::1146} to "C"
+		set {item.lvup::1146} to 0.1
+		set {item.matr::1146} to 1
+		set {item.lore::1146} to "A legendary blade wielded by the first king of Alendale; requires great finesse to wield effectively. Light attacks consume HP to emit a damaging shockwave."
+		set {item.item::1146} to glowing stone sword
+		set {id.Excalibur} to 1146
+		
+		set {item.type::1147} to 1
+		set {item.name::1147} to "&6Diamond Longsword"
+		set {item.phys::1147} to 62
+		set {item.weig::1147} to 30
+		set {item.rang::1147} to 3
+		set {item.clas::1147} to "Medium"
+		set {item.strr::1147} to 24
+		set {item.sscl::1147} to "C"
+		set {item.dexr::1147} to 24
+		set {item.dscl::1147} to "C"
+		set {item.lore::1147} to "A diamond encrusted longsword that requires considerable strength and dexterity to wield effectively."
+		set {item.item::1147} to diamond sword
+		set {id.Diamond Longsword} to 1147
+		
+		set {item.type::1148} to 1
+		set {item.name::1148} to "&6Crystal Reaper"
+		set {item.phys::1148} to 140
+		set {item.weig::1148} to 58
+		set {item.rang::1148} to 2
+		set {item.clas::1148} to "Heavy"
+		set {item.dexr::1148} to 70
+		set {item.dscl::1148} to "E"
+		set {item.lore::1148} to "A short scythe forged out of some sort of enchanted crystal."
+		set {item.item::1148} to iron hoe
+		set {id.Crystal Reaper} to 1148
+		
+		set {item.type::1149} to 1
+		set {item.name::1149} to "&6Hero's Blade"
+		set {item.phys::1149} to 18
+		set {item.fire::1149} to 4
+		set {item.wate::1149} to 4
+		set {item.eart::1149} to 4
+		set {item.wind::1149} to 4
+		set {item.weig::1149} to 40
+		set {item.rang::1149} to 3
+		set {item.clas::1149} to "Heavy"
+		set {item.strr::1149} to 40
+		set {item.sscl::1149} to "S"
+		set {item.dexr::1149} to 40
+		set {item.dscl::1149} to "S"
+		set {item.lore::1149} to "The blade wielded by two legendary heroes who prevented the Origin from wiping out humanity in an age past."
+		set {item.item::1149} to glowing gold sword
+		set {id.Hero's Blade} to 1149
+		
+		set {item.type::1150} to 1
+		set {item.name::1150} to "&6Igniter"
+		set {item.phys::1150} to 8
+		set {item.fire::1150} to 16
+		set {item.weig::1150} to 14
+		set {item.rang::1150} to 2
+		set {item.clas::1150} to "Light"
+		set {item.dexr::1150} to 2
+		set {item.lore::1150} to "A small tool that can be used to light torches."
+		set {item.item::1150} to blaze rod
+		set {id.Igniter} to 1150
+		
+		set {item.type::1151} to 1
+		set {item.name::1151} to "&6Poison Ivy Clippers"
+		set {item.phys::1151} to 36
+		set {item.weig::1151} to 26
+		set {item.rang::1151} to 3
+		set {item.clas::1151} to "Light"
+		set {item.dexr::1151} to 18
+		set {item.dscl::1151} to "B"
+		set {item.pois::1151} to 10
+		set {item.lore::1151} to "A set of hedge clippers that have been tangled up in poison ivy, causing buildup in foes."
+		set {item.item::1151} to wooden hoe
+		set {id.Poison Ivy Clippers} to 1151
+		
+		set {item.type::1152} to 1
+		set {item.name::1152} to "&6Bone Chip"
+		set {item.phys::1152} to 10
+		set {item.weig::1152} to 1
+		set {item.rang::1152} to 1
+		set {item.clas::1152} to "Very Light"
+		set {item.strr::1152} to 1
+		set {item.stmd::1152} to -2
+		set {item.lore::1152} to "A shattered shard of a former inmate's skeleton."
+		set {item.item::1152} to bone
+		set {id.Bone Chip} to 1152
+		
+		set {item.type::1155} to 1
+		set {item.name::1155} to "&6Greatsword of Judgment"
+		set {item.phys::1155} to 82
+		set {item.weig::1155} to 46
+		set {item.rang::1155} to 3
+		set {item.clas::1155} to "Heavy"
+		set {item.strr::1155} to 70
+		set {item.sscl::1155} to "S"
+		set {item.lvup::1155} to 0.1
+		set {item.matr::1155} to 1
+		set {item.lore::1155} to "One in a pair of blades which was used by an evil god to pass judgment on humanity over many aeons."
+		set {item.skil::1155} to "Skill: Judgment Blade - Perform a set of powerful sweeping attacks which gain bleed inflicting properties while at low health. (%{skil.mana::17}% MP)"
+		set {item.item::1155} to glowing diamond sword
+		set {id.Greatsword of Judgment} to 1155
+		
+		set {item.type::1156} to 1
+		set {item.name::1156} to "&6Sword of Judgment"
+		set {item.phys::1156} to 60
+		set {item.weig::1156} to 32
+		set {item.rang::1156} to 3
+		set {item.clas::1156} to "Medium"
+		set {item.dexr::1156} to 70
+		set {item.dscl::1156} to "S"
+		set {item.lvup::1156} to 0.1
+		set {item.matr::1156} to 1
+		set {item.lore::1156} to "One in a pair of blades which was used by an evil god to pass judgment on humanity over many aeons."
+		set {item.skil::1156} to "Skill: Judgment Blade - Perform a set of powerful sweeping attacks which gain bleed inflicting properties while at low health. (%{skil.mana::18}% MP)"
+		set {item.item::1156} to glowing diamond sword
+		set {id.Sword of Judgment} to 1156
+
+		set {item.type::1157} to 1
+		set {item.name::1157} to "&6Soulbrandt"
+		set {item.phys::1157} to 60
+		set {item.weig::1157} to 30
+		set {item.rang::1157} to 3
+		set {item.clas::1157} to "Medium"
+		set {item.intr::1157} to 1
+		set {item.lvup::1157} to 0.5
+		set {item.matr::1157} to 2
+		set {item.lore::1157} to "A legendary blade used by the Darkwater civilization to dispel barriers. The damage from this blade entirely ignores shields."
+		set {item.item::1157} to glowing iron sword
+		set {id.Soulbrandt} to 1157
